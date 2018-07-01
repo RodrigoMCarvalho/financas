@@ -2,9 +2,6 @@ package br.com.caelum.financas.modelo;
 
 import javax.persistence.*;
 
-/**
- * Created by leonardocordeiro on 24/02/17.
- */
 
 @Entity
 public class Conta {

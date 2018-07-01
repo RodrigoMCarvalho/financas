@@ -17,7 +17,7 @@ public class TesteJPARelacionamento {
         conta.setAgencia("111");
         conta.setBanco("Itau");
         conta.setNumero("54321");
-        conta.setTitular("Leonardo");
+        conta.setTitular("Rodrigo");
 
         Movimentacao movimentacao = new Movimentacao();
         movimentacao.setData(Calendar.getInstance());
