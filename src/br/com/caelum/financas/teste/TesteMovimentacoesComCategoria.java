@@ -16,7 +16,7 @@ public class TesteMovimentacoesComCategoria {
     public static void main(String[] args) {
 
         Categoria categoria1 = new Categoria("Viagem");
-        Categoria categoria2 = new Categoria("NegÃ³cios");
+        Categoria categoria2 = new Categoria("Negócios");
 
         Conta conta = new Conta();
         conta.setId(2);
